@@ -1,0 +1,29 @@
+{
+  "_default": {
+    "1": {
+      "date": "2022-01-24 00:00:00",
+      "temperature": -15,
+      "condiiton": "Light Snow"
+    },
+    "2": {
+      "date": "2022-01-25 00:00:00",
+      "temperature": -17,
+      "condiiton": "Cloudy"
+    },
+    "3": {
+      "date": "2022-01-26 00:00:00",
+      "temperature": -21,
+      "condiiton": "Sunny"
+    },
+    "4": {
+      "date": "2022-01-27 00:00:00",
+      "temperature": -10,
+      "condiiton": "Cloudy"
+    },
+    "5": {
+      "date": "2022-01-28 00:00:00",
+      "temperature": -13,
+      "condiiton": "Mostly Cloudy"
+    }
+  }
+}
